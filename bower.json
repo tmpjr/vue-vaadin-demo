@@ -1,0 +1,21 @@
+{
+  "name": "vue-vaadin-demo",
+  "description": "Vue/Vaadin Demo",
+  "main": "",
+  "authors": [
+    "Tom Ploskina <tploskinajr@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vaadin-date-picker": "^2.0.5",
+    "vaadin-grid": "^3.0.2"
+  }
+}
